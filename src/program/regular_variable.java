@@ -22,6 +22,9 @@ public class regular_variable {
             break;
         }
     }
+    /*
+
+     */
     public static void main(String[] args) {
         calc(2,4, '-');
     }
